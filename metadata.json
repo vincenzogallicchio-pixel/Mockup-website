@@ -1,0 +1,6 @@
+{
+  "name": "Guitar Tortona – Centro Chitarre dal 1990",
+  "description": "Redesign ecommerce ad alta fedeltà di Guitar Tortona. Chitarre elettriche, acustiche, jazz, classiche, bassi, amplificatori con il Trova la tua Chitarra AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
